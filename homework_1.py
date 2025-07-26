@@ -63,3 +63,5 @@ pwd ---полное имя пути
 git init --оказаться в гит репозитории
 
 git add homework_1.py
+
+s
